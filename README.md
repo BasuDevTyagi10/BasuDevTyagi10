@@ -1,5 +1,5 @@
 <div align="center">
-    <h2 style="font-family: Courier" > Hello World <img src="./gifs/hi.gif" width="20px"></h2>
+    <h3 style="font-family: Courier" > Hello World <img src="./gifs/hi.gif" height="20px" width="20px"></h3>
     <h3>I am Basudev Tyagi.</h3>
     <h3>I am a Backend Developer and a Python Enthusiast!</h3>
     <p align="center">
@@ -18,7 +18,7 @@
 </li>
 <li>🤝 I’m looking to collaborate on <b>Python</b>, <b>JavaScript</b> and <b>UI/UX</b>.</li>
 <li>📫 How to reach me? <a href="mailto:basudevtyagi10@gmail.com? subject=Learn about MailTo tags in HTML">basudevtyagi10@gmail.com</a></li>
-<li>📄 My Resume [<a href="">here</a>]</li>
+<li>📄 My Resume [<a href="https://drive.google.com/file/d/1YXdfhLfvj95_vFObv3bdF9JRc5V2B1H0/view?usp=sharing">here</a>]</li>
 <li>👨‍💼 My Portfolio [<a href="#">soon⏳</a>]</li>
 <li>⚡ What keeps me going?<br><i>“You have to fight to reach your dream. You have to sacrifice and work hard for it.” – Lionel Messi</i></li>
 </ul>
