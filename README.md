@@ -1,5 +1,5 @@
 <div align="center">
-    <h2 style="font-family: Courier" > Hello World <img src="./gifs/Hi.gif" width="20px"></h2>
+    <h2 style="font-family: Courier" > Hello World <img src="./gifs/hi.gif" width="20px"></h2>
     <h3>I am Basudev Tyagi.</h3>
     <h3>I am a Backend Developer and a Python Enthusiast!</h3>
     <p align="center">
