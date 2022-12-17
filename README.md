@@ -19,7 +19,7 @@
 <li>🤝 I’m looking to collaborate on <b>Python</b>, <b>JavaScript</b> and <b>UI/UX</b>.</li>
 <li>📫 How to reach me? <a href="mailto:basudevtyagi10@gmail.com">basudevtyagi10@gmail.com</a></li>
 <li>📄 My Resume [<a href="./resume/Basudev Tyagi.pdf">here</a>]</li>
-<li>👨‍💼 My Portfolio [<a href="#">soon⏳</a>]</li>
+<li>👨‍💼 My Portfolio [<a href="https://basudevtyagi10.github.io/portfolio/">here</a>]</li>
 <li>⚡ What keeps me going?<br><i>“You have to fight to reach your dream. You have to sacrifice and work hard for it.” – Lionel Messi</i></li>
 </ul>
 </div>
