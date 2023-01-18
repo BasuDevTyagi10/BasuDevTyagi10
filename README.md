@@ -29,7 +29,7 @@
 
 <a href="https://www.linkedin.com/in/basudevtyagi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="basudevtyagi" height="30" width="30"/> LinkedIn&nbsp;</a>
 <a href="https://www.instagram.com/basudev.tyagi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="basudev.tyagi" height="30" width="30"/> Instagram&nbsp;</a>
-<a href="https://www.hackerrank.com/bdt101" target="blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="bdt101" height="30" width="30"/> HackerRank&nbsp;</a>
+<a href="https://www.hackerrank.com/basudevtyagi" target="blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="bdt101" height="30" width="30"/> HackerRank&nbsp;</a>
 <a href="https://leetcode.com/tyagi101basudev/" target="blank"><img align="center" src="https://leetcode.com/favicon-192x192.png" alt="basudevtyagi" height="30" width="30"/> LeetCode&nbsp;</a>
 </div>
 
