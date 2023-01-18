@@ -18,8 +18,8 @@
 </li>
 <li>🤝 I’m looking to collaborate on <b>Python</b>, <b>JavaScript</b> and <b>UI/UX</b>.</li>
 <li>📫 How to reach me? <a href="mailto:basudevtyagi10@gmail.com">basudevtyagi10@gmail.com</a></li>
-<li>📄 My Resume [<a href="./resume/Basudev Tyagi.pdf">here</a>]</li>
-<li>👨‍💼 My Portfolio [<a href="https://basudevtyagi10.github.io/portfolio/">here</a>]</li>
+<li>📄 My Resume [<a href="https://basudevtyagi.vercel.app/resources/Basudev%20Tyagi.pdf">here</a>]</li>
+<li>👨‍💼 My Portfolio [<a href="https://basudevtyagi.vercel.app/">here</a>]</li>
 <li>⚡ What keeps me going?<br><i>“You have to fight to reach your dream. You have to sacrifice and work hard for it.” – Lionel Messi</i></li>
 </ul>
 </div>
@@ -27,10 +27,10 @@
 <div>
 <h2>Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/basudevtyagi/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mareauxoiseaux.fr%2Fwp-content%2Fuploads%2F2019%2F04%2Flogo-linkedin.png&f=1&nofb=1" alt="basudevtyagi" height="30" width="30"/> LinkedIn&nbsp;</a>
-<a href="https://www.instagram.com/basudev.tyagi/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Finstagram%2Finstagram_PNG9.png&f=1&nofb=1" alt="basudev.tyagi" height="30" width="30"/> Instagram&nbsp;</a>
-<a href="https://www.hackerrank.com/bdt101" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-ULT9oDhqr24%2FXJYCrttOEpI%2FAAAAAAAAJYE%2FinXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw%2Fs1600%2Flogo%252Bhackerrank%252Bicon.png&f=1&nofb=1" alt="bdt101" height="30" width="30"/> HackerRank&nbsp;</a>
-<a href="https://leetcode.com/tyagi101basudev/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo.png&f=1&nofb=1" alt="kratosthe01" height="30" width="30"/> LeetCode&nbsp;</a>
+<a href="https://www.linkedin.com/in/basudevtyagi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="basudevtyagi" height="30" width="30"/> LinkedIn&nbsp;</a>
+<a href="https://www.instagram.com/basudev.tyagi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="basudev.tyagi" height="30" width="30"/> Instagram&nbsp;</a>
+<a href="https://www.hackerrank.com/bdt101" target="blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="bdt101" height="30" width="30"/> HackerRank&nbsp;</a>
+<a href="https://leetcode.com/tyagi101basudev/" target="blank"><img align="center" src="https://leetcode.com/favicon-192x192.png" alt="basudevtyagi" height="30" width="30"/> LeetCode&nbsp;</a>
 </div>
 
 <div>
