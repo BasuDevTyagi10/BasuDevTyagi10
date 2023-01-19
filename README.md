@@ -19,7 +19,7 @@
 </div>
 <div><br><br></div>
 <div>
-<img alt="NightCoding" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="500px" align="right"/>
+<img alt="NightCoding" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="40%" align="right"/>
 
 <h2>👨‍💻 &nbsp;About me...</h2>
     
