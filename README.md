@@ -17,10 +17,11 @@
         <a href="https://leetcode.com/tyagi101basudev/" target="blank"><img align="center" src="https://leetcode.com/favicon-192x192.png" alt="basudevtyagi" height="30" width="30"/>&nbsp;</a>
     </div>
 </div>
-
+<div><br><br></div>
 <div>
+<img alt="NightCoding" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="500px" align="right"/>
+
 <h2>👨‍💻 &nbsp;About me...</h2>
-<img alt="NightCoding" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="40%" align="right"/>
     
 - 🤔 &nbsp; Exploring new technologies and developing software for fun and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Engineering at Graphic Era Deemed to be University.
