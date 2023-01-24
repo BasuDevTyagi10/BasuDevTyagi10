@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.postimg.cc/wvxDXNRG/ezgif-com-gif-maker.gif" height="50px">
-    <p>My word for... this guy is Basud... ev. Basudev Tyagi. I am a Backend Developer and a Tech Enthusiast!</p>
+    <p>My word for... this guy is... Basudev Tyagi. I am a Backend Developer and a Tech Enthusiast!</p>
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=BasuDevTyagi10&label=Profile%20views&color=blueviolet&style=flat" alt="BasuDevTyagi10 Views" />
         <a href="https://github.com/BasuDevTyagi10?tab=followers"><img src="https://img.shields.io/github/followers/BasuDevTyagi10?label=Followers&style=social" alt="BasuDevTyagi10 Followers">
