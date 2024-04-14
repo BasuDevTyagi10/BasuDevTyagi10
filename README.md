@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.postimg.cc/wvxDXNRG/ezgif-com-gif-maker.gif" height="50px">
-    <p>My word for... this guy is... Basudev Tyagi. I am a Backend Developer and a Tech Enthusiast!</p>
+    <p>My word for... this guy is... Basudev Tyagi. I am a Backend & Integration Developer and a Tech Enthusiast!</p>
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=BasuDevTyagi10&label=Profile%20views&color=blueviolet&style=flat" alt="BasuDevTyagi10 Views" />
         <a href="https://github.com/BasuDevTyagi10?tab=followers"><img src="https://img.shields.io/github/followers/BasuDevTyagi10?label=Followers&style=social" alt="BasuDevTyagi10 Followers">
@@ -24,11 +24,11 @@
 <h2>👨‍💻 &nbsp;About me...</h2>
     
 - 🤔 &nbsp; Exploring new technologies and developing software for fun and quick hacks.
-- 🎓 &nbsp; Studying Computer Science Engineering at Graphic Era Deemed to be University.
-- 💼 &nbsp; Looking forward to working in the field of Backend Development and Software Engineering.
+- 💼 &nbsp; Working as a Senior Software Engineer at Capgemini.
+- 🎓 &nbsp; Completed Computer Science Engineering from Graphic Era Deemed to be University.
 - 🌱 &nbsp; Learning more about Backend, DBMS, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing UI/UX Designing and Blog Writing as hobbies/side hustles.
-- 🤝 &nbsp; Looking to collaborate on **Python**, <b>JavaScript</b> and <b>UI/UX</b>.
+- 🤝 &nbsp; Looking to collaborate on **Python**, **JavaScript** and **UI/UX**.
 </div>
 
 <div>
